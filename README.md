@@ -1,5 +1,5 @@
 # Sequential Data Modeling with KerasPython GUI Development with Tkinter Training
-## by [Tertiary Infotech Pte. Ltd](https://www.tertiarycourses.com.sg/)
+## by [Tertiary Courses ](https://www.tertiarycourses.com.sg/)
 
 These are the exercise files used for [Sequential Data Modeling with Keras](https://www.tertiarycourses.com.sg/python-gui-development-with-tkinter.html) course. 
 
@@ -10,28 +10,21 @@ https://www.tertiarycourses.com.sg/sequential-data-modeling-keras.html
 https://www.tertiarycourses.com.my/sequential-data-modeling-keras-malaysia.html
 
 
-<p><strong>Module 1 Word Embedding</strong></p>
+<p><strong>Topic 1 Time Series Forecasting using RNN</strong></p>
 <ul>
-<li>One Hot Encoding of Words</li>
+<li>Overview of Recurrent Neural Network (RNN)</li>
+<li>Time Series Forecasting</li>
+</ul>
+<p><strong>Topic 2 Natural Language Processing using RNN</strong></p>
+<ul>
+<li>Overview of Natural Language Processing (NLP)</li>
 <li>Word Embedding</li>
-<li>Pre-Trained Word Embedding</li>
+<li>Text Classification</li>
+<li>Text Generation</li>
 </ul>
-<p><strong>Module 2 RNN and LSTM</strong></p>
+<p><strong>Topic 3 Attention Mechanism and Transformer Network</strong></p>
 <ul>
-<li>Recurrent Neural Network (RNN)</li>
-<li>Long Short Term Memory (LSTM) and GRU</li>
-<li>Stacked RNN</li>
-<li>Bidirectional RNN</li>
-<li>Case Studies on Time Series Prediction with LSTM</li>
+<li>Overview of Attention Mechanism</li>
+<li>Overview of Transformer Network</li>
+<li>Text Classification with Transformer Encoder</li>
 </ul>
-<p><strong>Module 3 1D Convolution</strong></p>
-<ul>
-<li>1D Convolution on Sequential Data</li>
-<li>Combining 1D Convolution and RNN</li>
-</ul>
-<p><strong>Module 4 Sequence To Sequence Mode</strong>l</p>
-<ul>
-<li>What is Seq2Seq Model</li>
-<li>Attention Mechanism</li>
-</ul>
-
